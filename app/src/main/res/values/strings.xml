@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="source_unit_label">Select Source Unit</string>
+    <string name="destination_unit_label">Select Destination Unit</string>
+    <string name="button_text">Convert</string>
+    <string name="convert_amount_label">Enter amount to convert</string>
+    <string name="equal_to_label">is equal to</string>
+    <string name="text_edit_hint">Enter Number</string>
+
+    <string-array name="source_units">
+        <item>Select source unit</item>
+        <item>cm</item>
+        <item>inch</item>
+        <item>foot</item>
+        <item>yard</item>
+        <item>mile</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>pound</item>
+        <item>ounce</item>
+        <item>ton</item>
+        <item>celsius</item>
+        <item>fahrenheit</item>
+        <item>kelvin</item>
+    </string-array>
+
+    <string-array name="defaultDestinationUnits">
+        <item>Select source unit</item>
+    </string-array>
+
+    <string-array name="distanceUnits">
+        <item>cm</item>
+        <item>inch</item>
+        <item>foot</item>
+        <item>yard</item>
+        <item>mile</item>
+    </string-array>
+
+    <string-array name="weightUnits">
+        <item>g</item>
+        <item>kg</item>
+        <item>pound</item>
+        <item>ounce</item>
+        <item>ton</item>
+    </string-array>
+
+    <string-array name="temperatureUnits">
+        <item>celsius</item>
+        <item>fahrenheit</item>
+        <item>kelvin</item>
+    </string-array>
+</resources>
